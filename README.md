@@ -1,6 +1,9 @@
 # 💬 Chat UI Clone
 Phan Thi Chi - 22GIT
-A Flutter chat interface clone similar to Messenger or WhatsApp.
+
+https://github.com/user-attachments/assets/6b478130-8983-4b8a-970d-c7ee1e496fca
+
+Flutter chat interface clone similar to Messenger or WhatsApp.
 
 ## Features
 
